@@ -8,6 +8,7 @@ namespace qwerty
         {
             Console.WriteLine("Its a qwerty keyborad app");
             Console.WriteLine("King of the pirate");
+            Console.WriteLine("who you");
             Console.ReadLine();
         }
     }
